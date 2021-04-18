@@ -1,4 +1,4 @@
---'1. Find the titles of all movies directed by Steven Spielberg.
+--'1. Find the titles of all movies directed by Steven Spielberg..
 
 Select *
 FROM Movie
